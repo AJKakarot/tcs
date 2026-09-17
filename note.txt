@@ -160,3 +160,37 @@ min               → small
 max               → small
 i                 → small
 map               → small
+-----------------------------------
+
+
+
+TCS NQT – 5 Array Short Notes
+
+1. Increasing-Decreasing
+→ Sort array
+→ First half ↑
+→ Second half ↓
+→ Arrays.sort(arr)
+
+2. Sum
+→ Sab elements add
+→ sum += arr[i]
+
+3. Rotate by K
+→ k = k % n
+→ Reverse method
+→ Right: Whole → First K → Remaining
+
+4. Average
+→ Average = Sum / n
+→ double use karo: (double) sum / n
+
+5. Median
+→ Pehle sort
+→ Odd → middle element
+→ Even → 2 middle ka average
+
+REMEMBER:
+Sort → Inc/Dec, Median
+sum → Sum/Average
+Reverse → Rotate
